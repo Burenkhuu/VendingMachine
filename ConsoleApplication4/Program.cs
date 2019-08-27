@@ -233,11 +233,12 @@ namespace VendingMachine
         static void RunTest(VendingMachine vm, string itemName, Dictionary<int, int> paid, int testID)
         {
             bool succeeded = false;
+            Console.WriteLine();
             Console.WriteLine("-----------------------test"+ testID + "---------------------------");
             StringBuilder str = new StringBuilder();
             foreach (var pair in paid)
             {
-                str.Append(pair.Key + "c * " + pair.Value);
+                str.Append(pair.Key + "c * " + pair.Value +", ");
             }
             Console.WriteLine("Buying "+ itemName+". Paid "+str.ToString());
             succeeded = vm.BuyAnItem(itemName, paid);

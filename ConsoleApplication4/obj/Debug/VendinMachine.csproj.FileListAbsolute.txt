@@ -1,6 +1,0 @@
-C:\VendingMachine\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
-C:\VendingMachine\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
-C:\VendingMachine\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
-C:\VendingMachine\ConsoleApplication4\obj\Debug\VendinMachine.csproj.CoreCompileInputs.cache
-C:\VendingMachine\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
-C:\VendingMachine\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
